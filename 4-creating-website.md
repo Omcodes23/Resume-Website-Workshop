@@ -41,4 +41,4 @@ Q3: CSS is NOT used to manage:
 
 ## Summary
 
-Congratulations! You have successfully created a resume website entirely in the browser using HTML, CSS, github.dev, and GitHub Pages! You can continue to grow your web development skills by modifying this page, or exploring [content on Microsoft Learn](https://docs.microsoft.com/learn/paths/web-development-101/?WT.mc_id=academic-51109-ornella).
+Congratulations! You have successfully created a resume website entirely in the browser using HTML, CSS, github.dev, and GitHub Pages! You can continue to grow your web development skills by modifying this page, or exploring.
